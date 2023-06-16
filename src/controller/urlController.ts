@@ -1,8 +1,11 @@
 import { Request, Response } from 'express';
 import shortid from 'shortid';
 import validUrl from 'valid-url';
-
 import Url from '../model/url';
+import redis from 'redis';
+const redisClient = redis.createClient();
+
+const qr = require('qr-code');
 
 export const shortenUrl = async (req: Request, res: Response) => {
   const { longUrl, customSlug } = req.body;
@@ -14,7 +17,18 @@ export const shortenUrl = async (req: Request, res: Response) => {
   }
 
   // Create URL code
-  const urlCode = customSlug || shortid.generate();
+  let urlCode = '';
+
+  if (customSlug) {
+    // Check if the customSlug is 6 letters long
+    if (customSlug.length !== 6) {
+      return res.status(400).json('Custom slug must be 6 characters long');
+    }
+
+    urlCode = customSlug;
+  } else {
+    urlCode = shortid.generate();
+  }
 
   // Check long URL
   if (validUrl.isUri(longUrl)) {
@@ -24,7 +38,7 @@ export const shortenUrl = async (req: Request, res: Response) => {
       if (url) {
         res.json(url);
       } else {
-        const shortUrl = baseUrl + '/' + urlCode;
+        const shortUrl = urlCode;
 
         url = new Url({
           longUrl,
@@ -34,8 +48,9 @@ export const shortenUrl = async (req: Request, res: Response) => {
         });
 
         await url.save();
+        const qrCodeData = await qr.toDataURL(shortUrl);
 
-        res.json(url);
+        res.json({ url, qrCodeData });
       }
     } catch (err) {
       console.log(err);

@@ -1,23 +1,36 @@
 import mongoose, { Document, Schema } from 'mongoose';
 
 export interface IUrl extends Document {
-  Longurl: string;
+  longUrl: string;
   urlCode: string;
   shortUrl: string;
   date: Date;
+  clicks: number;
 }
 
 const urlSchema: Schema = new Schema({
-  Longurl: {
+  longUrl: {
     type: String,
     required: true,
   },
-  urlCode: String,
-  shortUrl: String,
+  urlCode: {
+    type: String,
+    required: true,
+  },
+  shortUrl: {
+    type: String,
+    required: true,
+  },
   date: {
     type: Date,
     default: Date.now,
   },
+  clicks: {
+    type: Number,
+    default: 0,
+  },
 });
 
-export default mongoose.model<IUrl>('Url', urlSchema);
+const Url = mongoose.model<IUrl>('Url', urlSchema);
+
+export default Url;
