@@ -52,17 +52,9 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    
   </ol>
 </details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -122,8 +114,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [ ] Custom Slug: Users can choose to create a custom slug for their shortened URL. The custom slug must be 6 characters long and can be used to create meaningful and memorable links.
-- [ ]Automatic URL Code Generation: If no custom slug is provided, the URL shortener automatically generates a unique URL code using the shortid library. This ensures that every shortened URL is unique and easy to access.
-- [ ]Validation: Before shortening a URL, the application checks if the provided long URL is valid using the valid-url library. This helps prevent the creation of invalid or broken links.
+- [ ] Automatic URL Code Generation: If no custom slug is provided, the URL shortener automatically generates a unique URL code using the shortid library. This ensures that every shortened URL is unique and easy to access.
+- [ ] Validation: Before shortening a URL, the application checks if the provided long URL is valid using the valid-url library. This helps prevent the creation of invalid or broken links.
 
 See the [open issues](https://github.com/Exe-Alebs/Capstone/issues) for a full list of proposed features (and known issues).
 
@@ -165,8 +157,6 @@ Project Link: [https://github.com/Exe-Alebs/Capstone](https://github.com/Exe-Ale
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
