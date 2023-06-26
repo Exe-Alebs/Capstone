@@ -6,38 +6,38 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/actions">
-      <img alt="Tests Passing" src="https://github.com/xe-Alebs
+      <img alt="Tests Passing" src="https://github.com/Exe-Alebs
 /
 Capstone/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/xe-Alebs
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Exe-Alebs
 /
 Capstone" />
     </a>
-    <a href="https://codecov.io/gh/xe-Alebs
+    <a href="https://codecov.io/gh/Exe-Alebs
 /
 Capstone">
-      <img src="https://codecov.io/gh/xe-Alebs
+      <img src="https://codecov.io/gh/Exe-Alebs
 /
 Capstone/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/xe-Alebs
+      <img alt="Issues" src="https://img.shields.io/github/issues/Exe-Alebs
 /
 Capstone?color=0088ff" />
     </a>
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/xe-Alebs
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Exe-Alebs
 /
 Capstone?color=0088ff" />
     </a>
@@ -54,19 +54,19 @@ Capstone?color=0088ff" />
   <p align="center">
     <a href="#all-demos">View Demo</a>
     ·
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/discussions/1770">FAQ</a>
     ·
-    <a href="https://github.com/xe-Alebs
+    <a href="https://github.com/Exe-Alebs
 /
 Capstone/discussions">Ask Question</a>
   </p>
