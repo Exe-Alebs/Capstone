@@ -121,10 +121,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+- [ ] Custom Slug: Users can choose to create a custom slug for their shortened URL. The custom slug must be 6 characters long and can be used to create meaningful and memorable links.
+- [ ]Automatic URL Code Generation: If no custom slug is provided, the URL shortener automatically generates a unique URL code using the shortid library. This ensures that every shortened URL is unique and easy to access.
+- [ ]Validation: Before shortening a URL, the application checks if the provided long URL is valid using the valid-url library. This helps prevent the creation of invalid or broken links.
 
 See the [open issues](https://github.com/Exe-Alebs/Capstone/issues) for a full list of proposed features (and known issues).
 
@@ -159,19 +158,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@ExeAlebs](https://twitter.com/ExeAlebs) - Alebsgd@gmail.com@Alebsgd@gmail.com_client.com
+Your Name - [@ExeAlebs](https://twitter.com/ExeAlebs) - Alebsgd@gmail.com@Alebsgd@gmail.com
 
 Project Link: [https://github.com/Exe-Alebs/Capstone](https://github.com/Exe-Alebs/Capstone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
