@@ -1,7 +1,6 @@
 import { Request, Response } from 'express';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-
 import User, { IUser } from '../model/user';
 
 // Create a new user

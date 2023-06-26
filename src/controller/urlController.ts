@@ -2,10 +2,8 @@ import { Request, Response } from 'express';
 import shortid from 'shortid';
 import validUrl from 'valid-url';
 import Url from '../model/url';
-import redis from 'redis';
-const redisClient = redis.createClient();
 
-const qr = require('qr-code');
+const qr = require('qrcode');
 
 export const shortenUrl = async (req: Request, res: Response) => {
   const { longUrl, customSlug } = req.body;

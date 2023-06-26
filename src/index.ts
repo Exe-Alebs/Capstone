@@ -3,6 +3,8 @@ import bodyParser from 'body-parser';
 import connectToMongoDB from './database/db';
 import { config } from 'dotenv';
 import router from './Routes/routes';
+const cors = require('cors');
+
 config();
 require('dotenv').config();
 
@@ -10,6 +12,7 @@ const app: Express = express();
 const PORT: string | number = process.env.PORT || 4000;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(cors());
 
 app.use('/', router);
 
