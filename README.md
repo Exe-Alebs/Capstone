@@ -1,75 +1,100 @@
-# Capstone
+<a name="readme-top"></a>
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/Exe-Alebs/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/Exe-Alebs
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Exe-Alebs
 /
-Capstone/actions">
-      <img alt="Tests Passing" src="https://github.com/Exe-Alebs
-/
-Capstone/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/Exe-Alebs
-/
-Capstone/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Exe-Alebs
-/
-Capstone" />
-    </a>
-    <a href="https://codecov.io/gh/Exe-Alebs
-/
-Capstone">
-      <img src="https://codecov.io/gh/Exe-Alebs
-/
-Capstone/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/Exe-Alebs
-/
-Capstone/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Exe-Alebs
-/
-Capstone?color=0088ff" />
-    </a>
-    <a href="https://github.com/Exe-Alebs
-/
-Capstone/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Exe-Alebs
-/
-Capstone?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+Capstone
+
+">
+<img src="images/logo.png" alt="Logo" width="80" height="80">
+</a>
+
+<h3 align="center">project_title</h3>
 
   <p align="center">
-    <a href="#all-demos">View Demo</a>
-    ·
+    project_description
+    <br />
     <a href="https://github.com/Exe-Alebs
 /
-Capstone/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/Exe-Alebs
+Capstone
+
+"><strong>Explore the docs »</strong></a>
+<br />
+<br />
+<a href="https://github.com/Exe-Alebs
 /
-Capstone/issues/new/choose">Request Feature</a>
-    ·
-    <a href="https://github.com/Exe-Alebs
+Capstone
+
+">View Demo</a>
+·
+<a href="https://github.com/Exe-Alebs
 /
-Capstone/discussions/1770">FAQ</a>
-    ·
-    <a href="https://github.com/Exe-Alebs
+Capstone
+
+/issues">Report Bug</a>
+·
+<a href="https://github.com/Exe-Alebs
 /
-Capstone/discussions">Ask Question</a>
+Capstone
+
+/issues">Request Feature</a>
+
   </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## URL Shortener
 
