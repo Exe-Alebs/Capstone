@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Url-Shortener</h3>
 
   <p align="center">
     project_description
@@ -62,22 +62,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
+- [![React][React.js]][React-url] -[![Node][Node.js]][Node-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -165,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@ExeAlebs](https://twitter.com/ExeAlebs) - Alebsgd@gmail.com@Alebsgd@gmail.com_client.com
 
 Project Link: [https://github.com/Exe-Alebs/Capstone](https://github.com/Exe-Alebs/Capstone)
 
@@ -195,7 +186,7 @@ Project Link: [https://github.com/Exe-Alebs/Capstone](https://github.com/Exe-Ale
 [license-shield]: https://img.shields.io/github/license/Exe-Alebs/Capstone.svg?style=for-the-badge
 [license-url]: https://github.com/Exe-Alebs/Capstone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/alebiosu-gbolahan
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -213,3 +204,5 @@ Project Link: [https://github.com/Exe-Alebs/Capstone](https://github.com/Exe-Ale
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Node.js]: https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB
+[Node-url]: https://Nodejs.org/
