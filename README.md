@@ -6,20 +6,40 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Exe-Alebs/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/actions">
+      <img alt="Tests Passing" src="https://github.com/xe-Alebs
+/
+Capstone/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Exe-Alebs/github-readme-stats" />
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/xe-Alebs
+/
+Capstone" />
     </a>
-    <a href="https://codecov.io/gh/Exe-Alebs/github-readme-stats">
-      <img src="https://codecov.io/gh/Exe-Alebs/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/xe-Alebs
+/
+Capstone">
+      <img src="https://codecov.io/gh/xe-Alebs
+/
+Capstone/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Exe-Alebs/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/xe-Alebs
+/
+Capstone?color=0088ff" />
     </a>
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Exe-Alebs/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/xe-Alebs
+/
+Capstone?color=0088ff" />
     </a>
     <br />
     <br />
@@ -34,13 +54,21 @@
   <p align="center">
     <a href="#all-demos">View Demo</a>
     ·
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/discussions/1770">FAQ</a>
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/discussions/1770">FAQ</a>
     ·
-    <a href="https://github.com/Exe-Alebs/github-readme-stats/discussions">Ask Question</a>
+    <a href="https://github.com/xe-Alebs
+/
+Capstone/discussions">Ask Question</a>
   </p>
 
 ## URL Shortener
